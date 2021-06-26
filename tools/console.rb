@@ -10,4 +10,8 @@ end
 
 binding.pry
 0 #leave this here to ensure binding.pry isn't the last line
+s1 = Student.new("pranik")
+s2 = Student.new("joe")
+
+i1 = Instructor.new("Michelle")
 
